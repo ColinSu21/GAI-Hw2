@@ -32,4 +32,4 @@ This task is valuable to automate because it is repetitive, time-sensitive, and 
 2. Set `GOOGLE_API_KEY` or `GEMINI_API_KEY` in your shell.
 3. Run `python3 app.py`.
 4. Paste meeting notes into the terminal and press Enter on an empty line to finish.
-5. The generated email is printed and also saved to `output.txt`.
+5. The generated email is printed and also saved to `output.txt`. And the video link is https://youtu.be/Pqssy-EDiGk. 
